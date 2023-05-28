@@ -22,7 +22,7 @@
 
 # Software I use: Fuck windows!
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&theme=rgb)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
 
 More about me!
 
