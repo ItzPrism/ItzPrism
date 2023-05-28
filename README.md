@@ -26,7 +26,7 @@
 
 More about me!
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ItzPrism&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ItzPrism&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
 
 
 All credits to @Jurredr for his wonderful widgets!
