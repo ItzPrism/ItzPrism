@@ -6,23 +6,23 @@
 
 # My Languages
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,csharp,kotlin,bash,json,yaml,haskell,powershell,visualbasic,arm,groovy)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,csharp,kotlin,bash,json,yaml,haskell,powershell,visualbasic,arm,groovy&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 # Frameworks I'm familiar with
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,svelte,angular,dotnetcore,dotnet)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,svelte,angular,dotnetcore,dotnet&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 # Libraries I used before (basically none)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=jquery)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=jquery&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 # Tools I've used (I hate gradle)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,vercel,nodejs,heroku,apache,nginx,gradle)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,vercel,nodejs,heroku,apache,nginx,gradle&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 # Software I use: Fuck windows!
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
 
 More about me!
 
