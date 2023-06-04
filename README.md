@@ -33,6 +33,9 @@ More about me!
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ItzPrism&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
 
+# Repo's
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonsense-Client&repo=.github)](https://github.com/anuraghazra/github-readme-stats)
 
 All credits to @Jurredr for his wonderful widgets!
 <!---
