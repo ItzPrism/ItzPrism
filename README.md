@@ -11,6 +11,7 @@
 # My Languages
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,csharp,kotlin,bash,json,yaml,haskell,powershell,visualbasic,arm,groovy&includeNames=true&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzprism&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Frameworks I'm familiar with
 
