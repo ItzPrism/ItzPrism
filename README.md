@@ -35,7 +35,7 @@ More about me!
 
 # Repo's
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonsense-Client&repo=.github)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonsense-Client&repo=.github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 All credits to @Jurredr for his wonderful widgets!
 <!---
