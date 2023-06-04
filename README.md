@@ -6,7 +6,7 @@
 
 # Me
 
-[![xenophobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzprism)](https://github.com/anuraghazra/github-readme-stats)
+[![xenophobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzprism&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Languages
 
