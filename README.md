@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on an Operating System and I am looking for devs for Nexus Client.
 - 📫 How to reach me: discord.gg/moonsense Ping xenophobi
 
+# Me
+
+[![xenophobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzprism)](https://github.com/anuraghazra/github-readme-stats)
+
 # My Languages
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,csharp,kotlin,bash,json,yaml,haskell,powershell,visualbasic,arm,groovy&includeNames=true&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
