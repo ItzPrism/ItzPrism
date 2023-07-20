@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItzPrism
-- 👀 I’m interested in Closure and Angular.js. I like making montages for bedwars.
+- 👀 I’m interested in Clojure (and Angular.js) RIP angular. I like making montages for bedwars.
 - 🌱 I’m currently learning UI/UX Design and Java
 - 💞️ I’m looking to collaborate on an Operating System and I am looking for devs for Nexus Client.
 - 📫 How to reach me: discord.gg/moonsense Ping xenophobi
