@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ItzPrism
-- 👀 I’m interested in Clojure (and Angular.js) RIP angular. I like making montages for bedwars.
-- 🌱 I’m currently learning UI/UX Design and Java
-- 💞️ I’m looking to collaborate on an Operating System and I am looking for devs for Nexus Client.
-- 📫 How to reach me: discord.gg/moonsense Ping xenophobi
+
 
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"><img src="https://github.com/DuckySoLucky/DuckySoLucky/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
  
